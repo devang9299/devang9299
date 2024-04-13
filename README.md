@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devang9299](https://github.com/devang9299)
 
-- 📫 How to reach me **devanggadhiya9299@gmail.com**
+- 📫 How to reach me; email me on **devanggadhiya9299@gmail.com** and call me on **+14377993423**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xF8CkngXNdRyZf_6y43aP_3tEpJXR8t6/view?usp=sharing](https://drive.google.com/file/d/1xF8CkngXNdRyZf_6y43aP_3tEpJXR8t6/view?usp=sharing)
 
