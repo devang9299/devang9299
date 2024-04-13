@@ -15,7 +15,8 @@
 <a href="https://instagram.com/devang.gadhiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devang.gadhiya" height="30" width="40" /></a>
 </p>
 
+<p align = "center">
 <h3 align="left">Languages and Tools:</h3>
- <p> ![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-pink?style=for-the-badge&logo=SQL) ![PowerBI](https://img.shields.io/badge/PowerBI-green?style=for-the-badge&logo=PowerBI) ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=Tableau) ![Hive](https://img.shields.io/badge/Hive-white?style=for-the-badge&logo=Hive) ![HDFS](https://img.shields.io/badge/HDFS-magenta?style=for-the-badge&logo=HDFS) ![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge&logo=Hadoop) ![SPSS] (https://img.shields.io/badge/SPSS-cyan?style=for-the-badge&logo=SPSS)
+ ![python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/SQL-pink?style=for-the-badge&logo=SQL) ![PowerBI](https://img.shields.io/badge/PowerBI-green?style=for-the-badge&logo=PowerBI) ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=Tableau) ![Hive](https://img.shields.io/badge/Hive-white?style=for-the-badge&logo=Hive) ![HDFS](https://img.shields.io/badge/HDFS-magenta?style=for-the-badge&logo=HDFS) ![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge&logo=Hadoop) ![SPSS] (https://img.shields.io/badge/SPSS-cyan?style=for-the-badge&logo=SPSS)
  </p>
 
