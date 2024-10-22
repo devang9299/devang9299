@@ -23,6 +23,8 @@ iCreative Technologies: Spearheaded the team of three interns to discover new bu
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1ZkwV0pSz6ayGpmdMX0cq5DwYleiHRfXc/view?usp=drive_link)
 
+- 👨‍💻 All of my certificates are available at (https://drive.google.com/drive/folders/1M8ybr5Yw4f_Futiu-NpCT1U0g-a_Xiq2?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devanggadhiyaanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanggadhiyaanalyst/" height="30" width="40" /></a>
