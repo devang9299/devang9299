@@ -21,7 +21,7 @@ iCreative Technologies: Spearheaded the team of three interns to discover new bu
 
 - 📫 How to reach me; email me on **devanggadhiya9299@gmail.com** and call me on **+14377993423**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1YKzMzBII2WPUiy6ZtMtFiBijTBA2uadf/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ZkwV0pSz6ayGpmdMX0cq5DwYleiHRfXc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
