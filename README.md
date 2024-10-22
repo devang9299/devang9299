@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Devang Gadhiya</h1>
 <h3 align="center">A Freelancer Business Analyst</h3>
 
-<p>Welcome to my GitHub Profile!<br><br>I am a post graduate student from Humber college enrolled in the program of Business Insights and Analytics. <br><br> I leverage my diverse and unique personal value proposition including:<br> -strong foundation of technical knowledge of various languages in software development evidenced by my Bachelors degree of Engineering in Information Technology(India).<br> -profound expertise in business analysis and analytics to identify new business opportunities, building valuable relationships with clients and contributing to the overall growth and success of the organizations in an IT industry evidenced by my two years of experience certificates in it.<br> -excellent research and analytical skills developed by gathering the requirements from clients, analyzing it and prepare a proper technical document(FRD)/scope of the project for it evidenced by certification in Business Analysis.<br> -developed strong communication and teamworking skills by working with various software developers and stakeholders/clients across the globe.<br> -Working and maintaining line-up especially with European clients for more than a year helped me developing quality assurance and time management skills at a time.<br> -adroit project and operations management skills developed by working on freelancing projects as a side hustle.<br><br> My experience as a freelancer has doubled my interest in the field of Analytics and I'm keen to start my corporate career. I am excited to explore new opportunities as an Analyst and deliver innovative solutions to this field which can help the world to do the magic on the data and generate insights from it.</p>
+<p>Welcome to my GitHub Profile!<br><br>I am Devang Gadhiya, a Business and Data Analytics professional within the dynamic tech industry. My unique skill set combines technical excellence with business acumen, allowing me to deliver value through compelling storytelling, agile management, and advanced data analytics. With a solid foundation in Python programming, I can pride myself as a Data magician who has an ability to turn magic on data for strategic insights, I excel in translating complex information into actionable strategies that drive organizational success. 
+
+My journey in data analysis is underpinned by a passion for harnessing the power of data to solve business challenges and contributing to support decision-making. 
+
+As a bilingual professional, proficient in English and continually improving in French, I bring a global perspective and cross-cultural communication skills to collaborate effectively within diverse teams. My foundations in engineering and experience in business department from Software Tech company makes me agile and thrive in fast-paced environment. My goal is to continuously evolve in the field of data analytics, pioneering new methodologies and techs to propel organizations in the era of digital transformation.
+
+Please guide me to the appropriate individuals or contacts who can provide valuable insights and opportunities aligned with my career goals. I can be reached out by dm and email: devanggadhiya9299@gmail.com.
+
+Certifications: Agile Project Management | Data Analytics | Business Analysis | Fundamentals of Digital Marketing
+
+Top Skills: Big Data Analytics, Strategic Planning, Account Management, Data visualization, SPSS, Hadoop, Python, DBMS, SQL, Communication skills, Collaboration & Team skills, Analytical skills, Problem solving, Emotional Intelligence
+
+Top achievements: 
+eSparkBiz Technologies: Acquired one of the largest deal of the company as an intern, valued at $34,000 CAD through effective negotiation of complex contract terms with stakeholders that significantly boosted quarterly revenue by 15%.
+iCreative Technologies: Spearheaded the team of three interns to discover new business opportunities and revenue streams through strategic approach using social media, email marketing, and cold calling, which resulted in 25% increase in yearly revenue.</p>
 
 - 👨‍💻 All of my projects are available at (https://github.com/devang9299)
 
