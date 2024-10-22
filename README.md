@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devang Gadhiya</h1>
-<h3 align="center">A Freelancer Business Analyst</h3>
+<h3 align="center">A Business and Data Professional</h3>
 
 <p>Welcome to my GitHub Profile!<br><br>I am Devang Gadhiya, a Business and Data Analytics professional within the dynamic tech industry. My unique skill set combines technical excellence with business acumen, allowing me to deliver value through compelling storytelling, agile management, and advanced data analytics. With a solid foundation in Python programming, I can pride myself as a Data magician who has an ability to turn magic on data for strategic insights, I excel in translating complex information into actionable strategies that drive organizational success. 
 
